@@ -5,7 +5,7 @@
 - 📫 How to reach me Telegram: @AtabekEmailbot 🪖
 
 <div align="center">
-  <img height="200" src="https://s2.afisha.ru/mediastorage/ea/37/7d4377f8300d4e99badcc5e237ea.jpg"  />
+  <img height="600" src="https://s2.afisha.ru/mediastorage/ea/37/7d4377f8300d4e99badcc5e237ea.jpg"  />
 </div>
 
 ###

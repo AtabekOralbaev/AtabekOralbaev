@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Atabek 🎩
 - 👀 I’m interested in hacking systems 👾
-- 🌱 I’m currently learning in Astum similar school 42 🎓
+- 🌱 I’m currently learning in Astrum similar school 42 🎓
 - 💞️ I’m looking to collaborate on 🔎 🌹
 - 📫 How to reach me Telegram: @AtabekEmailbot 🪖
